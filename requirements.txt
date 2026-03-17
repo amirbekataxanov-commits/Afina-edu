@@ -1,0 +1,4 @@
+aiogram==3.20.0
+python-docx
+asyncpg
+python-dotenv
